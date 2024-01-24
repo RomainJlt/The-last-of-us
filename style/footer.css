@@ -1,0 +1,26 @@
+footer{
+    background-color: rgb(194 171 171);
+}
+
+.scrollTop{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+    font-size: 25px;
+    padding: 10px;
+    background-color: rgb(119, 104, 104);
+    color: rgb(237, 228, 228);
+    border-radius: 20px;
+}
+
+.scrollTop:hover{
+    background-color: rgb(94, 88, 88);
+    scroll-behavior: smooth;
+}
+
+.scrollTop a{
+    color: white;
+    text-decoration: none;
+    
+}

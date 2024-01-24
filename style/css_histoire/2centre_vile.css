@@ -1,0 +1,21 @@
+.centre_ville{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.centre_ville_p_img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.centre_ville_img{
+    width: 500px;
+    margin-right: 20px;
+}
+
+.p_cv_1{
+    width: 500px;
+    
+}

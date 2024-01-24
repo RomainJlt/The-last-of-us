@@ -1,0 +1,24 @@
+.laPorte{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.porte_p_img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.porte_img{
+    width: 500px;
+}
+
+.p_p_1{
+    width: 1020px;
+}
+
+.p_p_2{
+    width: 500px;
+    margin-right: 20px;
+}
